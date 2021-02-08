@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  position: absolute;
+  top: 175px;
+  left: 125px;
+  display: inline-block;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', "Helvetica Neue", Arial, sans-serif;
+}
+
+h2 {
+  color: #11999E;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.sd {
+  color: black;
+  position: absolute;
+  left: 125px;
+  top: 345px;
+  display: inline-block;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.TopContainer {
+  background-color: #E4F9F5;
+  height: 650px;
+}
+
+.MiddleContainer {
+  background-color: #E4F9F5;
+}
+
+.BottomContainer {
+  background-color: #E4F9F5;
+}
+
+.logo {
+  height: 527px;
+  width: 700px;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.bar {
+  background-color: #E4F9F5;
+}
+
+.BarItem {
+  position: relative;
+  right: 25%;
+  display: inline-block;
+  padding: 0 25px 0;
+  font-size: 1.3rem;
+}
+
+.BarIcon {
+  position: relative;
+  left: 25%;
+  display: inline-block;
+  padding: 0 15px 0;
+}
