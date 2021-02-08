@@ -45,13 +45,13 @@ h3 {
   height: 650px;
 }
 
-.MiddleContainer {
+/* .MiddleContainer {
   background-color: #E4F9F5;
 }
 
 .BottomContainer {
   background-color: #E4F9F5;
-}
+} */
 
 .logo {
   padding-top: 40px;
@@ -62,11 +62,11 @@ h3 {
   width: 720px;
 }
 
-.skill-row {
+/* .skill-row {
   margin: 100px auto 100px auto;
   width: 50%;
   text-align: left;
-}
+} */
 
 .bar {
   background-color: #E4F9F5;
