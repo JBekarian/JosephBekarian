@@ -1,7 +1,10 @@
 body {
   margin: 0;
-  text-align: center;
   font-family: 'Merriweather', serif;
+}
+
+main {
+  text-align: center;
 }
 
 h1 {
@@ -69,16 +72,14 @@ h3 {
 }
 
 .BarItem {
-  position: relative;
-  right: 27%;
   display: inline-block;
   padding: 0 25px 0;
   font-size: 1.3rem;
 }
 
 .BarIcon {
-  position: relative;
-  left: 27%;
+  float: right;
   display: inline-block;
   padding: 0 15px 0;
+  margin-top: 18px;
 }
