@@ -70,7 +70,7 @@ h3 {
 
 .BarItem {
   position: relative;
-  right: 25%;
+  right: 27%;
   display: inline-block;
   padding: 0 25px 0;
   font-size: 1.3rem;
@@ -78,7 +78,7 @@ h3 {
 
 .BarIcon {
   position: relative;
-  left: 25%;
+  left: 27%;
   display: inline-block;
   padding: 0 15px 0;
 }
