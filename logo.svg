@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 257 306.4" style="enable-background:new 0 0 257 306.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:#0C999E;}
+	.st4{fill:#0B0706;}
+	.st5{opacity:0.32;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="41.7621" y1="31.5498" x2="102.1084" y2="231.303">
+		<stop  offset="0" style="stop-color:#F04C37"/>
+		<stop  offset="0.1949" style="stop-color:#EB4B36"/>
+		<stop  offset="0.3561" style="stop-color:#E34834"/>
+		<stop  offset="0.5053" style="stop-color:#D54331"/>
+		<stop  offset="0.6473" style="stop-color:#C33D2B"/>
+		<stop  offset="0.7842" style="stop-color:#AB3423"/>
+		<stop  offset="0.9153" style="stop-color:#8E2817"/>
+		<stop  offset="1" style="stop-color:#7A1E0C"/>
+	</linearGradient>
+	<polyline class="st0" points="117.1,30.6 117.1,250.6 22.1,216.9 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="198.2618" y1="260.8638" x2="122.5166" y2="178.6738">
+		<stop  offset="0" style="stop-color:#0C999E"/>
+		<stop  offset="0.2105" style="stop-color:#0C979C"/>
+		<stop  offset="0.3727" style="stop-color:#0C9397"/>
+		<stop  offset="0.5186" style="stop-color:#0C8B8F"/>
+		<stop  offset="0.6551" style="stop-color:#078184"/>
+		<stop  offset="0.7849" style="stop-color:#007275"/>
+		<stop  offset="0.9082" style="stop-color:#006063"/>
+		<stop  offset="1" style="stop-color:#005053"/>
+	</linearGradient>
+	<polygon class="st1" points="118.6,250.6 112.5,291.1 226.1,227.6 226.1,167.8 117.2,167.6 	"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="174.2728" y1="44.1766" x2="128.3997" y2="121.3097">
+		<stop  offset="0" style="stop-color:#0C999E"/>
+		<stop  offset="0.1961" style="stop-color:#0C979C"/>
+		<stop  offset="0.3583" style="stop-color:#0C9297"/>
+		<stop  offset="0.5084" style="stop-color:#0B8B8F"/>
+		<stop  offset="0.6512" style="stop-color:#067F83"/>
+		<stop  offset="0.7888" style="stop-color:#007073"/>
+		<stop  offset="0.9209" style="stop-color:#005D60"/>
+		<stop  offset="1" style="stop-color:#005053"/>
+	</linearGradient>
+	<polygon class="st2" points="115.3,41.7 117.2,162 236.8,40.7 	"/>
+	<polygon class="st3" points="111.7,167.6 117.2,167.6 117.2,162 	"/>
+	<path class="st4" d="M115,260.6c-1.1,0-2.3-0.2-3.3-0.6l-95-33.7c-5.2-1.8-7.9-7.6-6.1-12.8c1.8-5.2,7.6-7.9,12.8-6.1l81.6,29V20
+		c0-5.5,4.5-10,10-10s10,4.5,10,10v120.6l-11.5,23.6l11.5,8.3v78.1c0,3.2-1.6,6.3-4.2,8.2C119,259.9,117,260.6,115,260.6z"/>
+	<g class="st5">
+		<defs>
+			<path id="SVGID_4_" class="st5" d="M115,260.6c-1.1,0-2.3-0.2-3.3-0.6l-95-33.7c-5.2-1.8-7.9-7.6-6.1-12.8
+				c1.8-5.2,7.6-7.9,12.8-6.1l81.6,29V20c0-5.5,4.5-10,10-10s10,4.5,10,10v120.6l-11.5,23.6l11.5,8.3v78.1c0,3.2-1.6,6.3-4.2,8.2
+				C119,259.9,117,260.6,115,260.6z"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_5_);">
+			
+				<image style="overflow:visible;" width="284" height="427" xlink:href="C4B35B6E.png"  transform="matrix(0.24 0 0 0.24 80.901 105.0428)">
+			</image>
+		</g>
+	</g>
+	<path class="st4" d="M118.9,296.4c-3.5,0-7-1.9-8.8-5.2c-2.7-4.8-0.9-10.9,4-13.6l102.2-56v-43.4l-125.1,5.6
+		c-4.2,0.2-8.1-2.3-9.7-6.2s-0.6-8.4,2.5-11.2L211.2,50.7H88.9c-5.5,0-10-4.5-10-10s4.5-10,10-10H237c4.1,0,7.8,2.5,9.3,6.4
+		c1.5,3.9,0.5,8.2-2.6,11L117.9,162.7l107.9-4.9c2.7-0.1,5.4,0.9,7.4,2.8c2,1.9,3.1,4.5,3.1,7.2v59.7c0,3.7-2,7-5.2,8.8l-107.4,58.8
+		C122.2,296,120.6,296.4,118.9,296.4z"/>
+	<path class="st3" d="M123.9,40.7"/>
+	<path class="st3" d="M123.9,40.7"/>
+	<g class="st5">
+		<defs>
+			<path id="SVGID_6_" class="st5" d="M88.9,50.7h75.3v-20H88.9c-5.5,0-10,4.5-10,10S83.4,50.7,88.9,50.7z"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_7_);">
+			
+				<image style="overflow:visible;" width="284" height="284" xlink:href="C4B35B72.png"  transform="matrix(0.24 0 0 0.24 80.901 6.6428)">
+			</image>
+		</g>
+	</g>
+	<path class="st4" d="M125,77.8V20c0-5.5-4.5-10-10-10s-10,4.5-10,10v57.8H125z"/>
+</g>
+</svg>
